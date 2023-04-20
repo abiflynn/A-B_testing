@@ -100,5 +100,5 @@ Also the order of preferences; softmore student Help, Services, Interact, Connec
 - Senior Student: Help, Services, Connect, Interact, Learn
 - Also the junior student stated “I look for help, so Help is the best, then Services too.” so services being preferred.
 
-In conclusion the word show be updated to **SERVICES**
+In conclusion the word should be updated to **SERVICES**
 
