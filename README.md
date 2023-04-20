@@ -1,8 +1,8 @@
-# A/B_Testing
+# A/B Testing
 
-**1. Project Objectives & Overview**
+## 1. Project Objectives & Overview
 
-**1.1. Business Problem**
+### 1.1. Business Problem
 
 The Library of Montana State University has a website that students use to find books and articles. This is what the homepage looks like:
 
@@ -14,7 +14,7 @@ Below the library picture, there is a search bar and three big items: “Find”
 
 During the sample period from April 3, 2013 – April 10, 2013, which included 10,819 visits to the library homepage, there was a large disparity among the three main content categories. The click-through rate for Find was 35%, Request was 6%, and Interact was 2%. This observation prompted a question: “Why are Interact clicks so low?” At this time, the content beneath Interact included links to Reference Services, Instruction Services, Subject Liaisons, Writing Center, About, Staff Directory, Library FAQ, Give to the Library, and Floor Maps. The library’s web committee surmised that introducing this category with the abstract term “Interact” added difficulty and confusion for users trying to navigate into the library website homepage. Four different category titles were then proposed as variations to be tested: Connect, Learn, Help, and Services.
 
-**1.2 User Research** 
+### 1.2 User Research 
 
 The team had conversations with a few students received this feedback:
 
@@ -38,7 +38,7 @@ Senior student:
 - “Connect is better than Interact, but neither are very good.”
 - In order of preferences of the choices, this student responded: Help, Services, Connect, Interact, Learn
 
-**1.3 A/B Test**
+### 1.3 A/B Test
 
 After the interviews with the users and some brainstorming, the website team settled on 4 different new versions to test against the original “Interact” button:
 - Connect
@@ -50,9 +50,9 @@ The hypotheses to be tested in the experiment are the following:
 - Null Hypothesis: all versions have the same CTR.
 - Alternative Hypothesis: there is a difference in the CTR for the different versions.
 
-**2. Results**
+## 2. Results
 
-**2.1. Questions**
+### 2.1. Questions
 
 **Would you include all suggested variants in the experiment (Connect, Learn, Help, Services)?**
 
@@ -85,7 +85,7 @@ Alternative Hypothesis ( 𝐻𝐴 ): at least one of the versions has a signific
 
 alpha = 0.1
 
-**2.2. Conclusion**
+### 2.2. Conclusion
 
 Since the p-value is smaller larger than alpha, we reject the Null Hypothesis.
 
